@@ -1,0 +1,10 @@
+{
+  "name": "hospital-hierarchy-diagram",
+  "version": "1.0.0",
+  "description": "Generate hierarchy diagram from PostgreSQL database",
+  "main": "generate_diagram.js",
+  "dependencies": {
+    "@mermaid-js/mermaid-cli": "^10.9.1",
+    "pg": "^8.11.3"
+  }
+}
